@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Zettelkasten/home/","tags":["gardenEntry"],"dgShowBacklinks":"false"}
 ---
 
 # hello :)
