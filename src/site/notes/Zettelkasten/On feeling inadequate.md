@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"On feeling inadequate.md","permalink":"/On feeling inadequate/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/On feeling inadequate/"}
 ---
 
 >[!quote] Look to others for inspiration, not comparison.
