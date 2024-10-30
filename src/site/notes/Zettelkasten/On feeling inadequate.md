@@ -34,6 +34,5 @@ The motto that I've got written on my README.md for my notes is "Do not let 'goo
 I should remember that more often.
 
 
-| ![[On feeling inadequate-20241030110217316.webp\|400]] |
-| ------------------------------------------------------ |
-| Tokyo Tower - 六本木 (Roppongi) - 2024.10.20           |
+![On feeling inadequate-20241030110217316.webp|400](/img/user/Images/On%20feeling%20inadequate-20241030110217316.webp)
+Tokyo Tower // 六本木 (Roppongi) // 2024-10-20
