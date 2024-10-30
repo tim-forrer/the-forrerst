@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/On feeling inadequate/"}
+{"dg-publish":true,"dg-path":"On feeling inadequate.md","permalink":"/On feeling inadequate/"}
 ---
 
 >[!quote] Look to others for inspiration, not comparison.
@@ -35,4 +35,4 @@ I should remember that more often.
 
 
 ![On feeling inadequate-20241030110217316.webp|400](/img/user/Images/On%20feeling%20inadequate-20241030110217316.webp)
-Tokyo Tower // 六本木 (Roppongi) // 2024-10-20
+<div align="center">Tokyo Tower // 六本木 (Roppongi) // 2024-10-20</div>
