@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/On feeling inadequate/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/On feeling inadequate/","noteIcon":"1","updated":"2024-10-31T00:23:13.603+09:00"}
 ---
 
 >[!quote] Look to others for inspiration, not comparison.
