@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00","updated":"2024-10-31T11:53:17.065+09:00"}
+{"dg-publish":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00","updated":"2024-11-06T23:54:01.198+09:00"}
 ---
 
 # Hello :)
@@ -20,5 +20,12 @@ In the meantime, feel free to take a browse.
 | 2024-11-04 | [[Zettelkasten/Altering colours using channels\|Altering colours using channels]] |
 | 2024-11-02 | [[Zettelkasten/On cover letters\|On cover letters]]                               |
 | 2024-10-31 | [[Zettelkasten/On feeling inadequate\|On feeling inadequate]]                     |
+
+{ .block-language-dataview}
+
+# Recently viewed videos
+| Date       |                                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| 2024-11-06 | [[References/@IrisSmyth_FeelingLOSTYourCareer\|Feeling LOST in your career?]] |
 
 { .block-language-dataview}
