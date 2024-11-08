@@ -15,11 +15,11 @@ In the meantime, feel free to take a browse.
 # Recent posts
 | Date       |                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------ |
+| 2024-11-08 | [[Zettelkasten/Two Sum (Programming Problem)\|Two Sum (Programming Problem)]]     |
+| 2024-11-08 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                     |
 | 2024-11-04 | [[Zettelkasten/Colour Models\|Colour Models]]                                     |
 | 2024-11-04 | [[Zettelkasten/Colour Models - Channels\|Colour Models - Channels]]               |
 | 2024-11-04 | [[Zettelkasten/Altering colours using channels\|Altering colours using channels]] |
-| 2024-11-02 | [[Zettelkasten/On cover letters\|On cover letters]]                               |
-| 2024-10-31 | [[Zettelkasten/On feeling inadequate\|On feeling inadequate]]                     |
 
 { .block-language-dataview}
 
