@@ -13,13 +13,13 @@ I don't have any intention for this website as of yet, I'm hoping that'll emerge
 In the meantime, feel free to take a browse.
 
 # Recent posts
-| Date       |                                                                                      |
-| ---------- | ------------------------------------------------------------------------------------ |
-| 2024-11-08 | [[Zettelkasten/Two Sum (Programming Problem)\|Two Sum (Programming Problem)]]     |
-| 2024-11-08 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                     |
-| 2024-11-04 | [[Zettelkasten/Colour Models\|Colour Models]]                                     |
-| 2024-11-04 | [[Zettelkasten/Colour Models - Channels\|Colour Models - Channels]]               |
-| 2024-11-04 | [[Zettelkasten/Altering colours using channels\|Altering colours using channels]] |
+| Date       |                                                                                  |
+| ---------- | -------------------------------------------------------------------------------- |
+| 2024-11-12 | [[Zettelkasten/On inertia\|On inertia]]                                       |
+| 2024-11-08 | [[Zettelkasten/Two Sum (Programming Problem)\|Two Sum (Programming Problem)]] |
+| 2024-11-08 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                 |
+| 2024-11-04 | [[Zettelkasten/Colour Models\|Colour Models]]                                 |
+| 2024-11-04 | [[Zettelkasten/Colour Models - Channels\|Colour Models - Channels]]           |
 
 { .block-language-dataview}
 
