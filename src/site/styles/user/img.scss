@@ -1,8 +1,7 @@
 /* Center embedded images and excalidraws */
 img,
 .excalidraw-embedded-img {
-  vertical-align: middle;
-  display: inline-block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -18,4 +17,6 @@ p:has(img) {
   flex-wrap: nowrap;
   gap: 10px;
   justify-content: space-between;
+  max-width: 100%;
+  overflow: hidden;
 }
