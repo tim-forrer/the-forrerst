@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Two Sum (Programming Problem)/","noteIcon":"2","created":"2024-11-08T23:25:11.408+09:00","updated":"2024-11-14T09:16:07.150+09:00"}
+{"tags":[],"difficulty":"easy","source":"https://leetcode.com/problems/two-sum/","dg-publish":true,"dg-note-icon":"2","permalink":"/Zettelkasten/Two Sum (Programming Problem)/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-08T23:25:11.408+09:00","updated":"2024-11-14T09:16:07.150+09:00"}
 ---
 
 # Problem

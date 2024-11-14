@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Colour Models/","tags":["colour-model"],"noteIcon":"2","created":"2024-11-04T18:33:47.311+09:00","updated":"2024-11-13T23:21:48.250+09:00"}
+{"tags":["colour-model"],"dg-publish":true,"dg-note-icon":"2","permalink":"/Zettelkasten/Colour Models/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-04T18:33:47.311+09:00","updated":"2024-11-13T23:21:48.250+09:00"}
 ---
 
 A colour model is a system for describing a colour with numbers.

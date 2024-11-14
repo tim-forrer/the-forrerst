@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00","updated":"2024-11-06T23:54:01.198+09:00"}
+{"dg-publish":true,"dg-home":true,"dg-show-backlinks":"false","dg-hide":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00","updated":"2024-11-06T23:54:01.198+09:00"}
 ---
 
 # Hello :)
