@@ -6,17 +6,3 @@ img,
   margin-right: auto;
 }
 
-p img {
-  flex: 1 1 auto;
-  max-width: 100%;
-  height: auto;
-}
-
-p:has(img) {
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 10px;
-  justify-content: space-between;
-  max-width: 100%;
-  overflow: hidden;
-}
