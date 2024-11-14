@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/On cover letters/","tags":["fleeting"],"noteIcon":"1","created":"2024-11-02T16:33:31.556+09:00","updated":"2024-11-02T23:40:54.091+09:00"}
+{"tags":["fleeting"],"aliases":null,"references":null,"parent":null,"dg-publish":true,"permalink":"/Zettelkasten/On cover letters/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-02T16:33:31.556+09:00","updated":"2024-11-02T23:40:54.091+09:00"}
 ---
 
 Well here we are.
