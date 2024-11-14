@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Altering colours using channels/","tags":["colour-model","photography"],"noteIcon":"2","created":"2024-11-03T10:48:57.412+09:00","updated":"2024-11-14T17:09:04.721+09:00"}
+{"tags":["colour-model","photography"],"dg-publish":true,"dg-note-icon":"2","permalink":"/Zettelkasten/Altering colours using channels/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-03T10:48:57.412+09:00","updated":"2024-11-14T17:09:04.721+09:00"}
 ---
 
 The aim of this article is to explain how to manipulate colours in a digital image to enhance colour harmonies.
