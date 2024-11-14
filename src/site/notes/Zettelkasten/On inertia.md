@@ -1,5 +1,5 @@
 ---
-{"tags":[],"dg-publish":true,"dg-note-icon":"2","gallery":true,"permalink":"/Zettelkasten/On inertia/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-12T23:45:38.333+09:00","updated":"2024-11-14T17:30:11.771+09:00"}
+{"tags":[],"dg-publish":true,"dg-note-icon":"2","gallery":true,"permalink":"/Zettelkasten/On inertia/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-12T23:45:38.333+09:00","updated":"2024-11-14T17:55:34.925+09:00"}
 ---
 
 
@@ -13,11 +13,17 @@ Eventually I took one - and it was entirely unremarkable and I've subsequently d
 
 I suppose the real lesson from today (although there were many useful things to think about) was that if I ever feel like a given day won't produce any photos, I just need to take one to get the ball rolling. After all - as the lecturer pointed out on multiple occasions - in the age of digital, taking a picture costs nothing.
 
-![On inertia-20241112235428274.webp|400](/img/user/Images/On%20inertia-20241112235428274.webp)
+<!-- Gallery -->
+<a href="/img/user/Images/On%20inertia-20241112235428274.webp" class="glightbox3" data-gallery="gallery1">
+  <img src="/img/user/Images/On%20inertia-20241112235428274.webp" alt="image" />
+</a>
+<a href="/img/user/Images/On%20inertia-20241112235440697.webp" class="glightbox3" data-gallery="gallery1">
+  <img src="/img/user/Images/On%20inertia-20241112235440697.webp" alt="image" />
+</a>
 
+![On inertia-20241112235428274.webp|400](/img/user/Images/On%20inertia-20241112235428274.webp)
 ![On inertia-20241112235440697.webp](/img/user/Images/On%20inertia-20241112235440697.webp)
 ![On inertia-20241112235445528.webp](/img/user/Images/On%20inertia-20241112235445528.webp)
-
 ![On inertia-20241112235448439.webp](/img/user/Images/On%20inertia-20241112235448439.webp)
 ![On inertia-20241112235457279.webp](/img/user/Images/On%20inertia-20241112235457279.webp)
 <div align="center">東京大学 (Univ. of Tokyo) // 本郷 (Hongo) // 2024-11-12</div>
