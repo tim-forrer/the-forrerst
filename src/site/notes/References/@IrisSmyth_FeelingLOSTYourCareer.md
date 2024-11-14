@@ -1,5 +1,5 @@
 ---
-{"aliases":["Feeling LOST in your career?","Feeling LOST in your career? Here's how to find the work you were MEANT to do!"],"date":"2022-09-08","creators":["[[Smyth, Iris]]"],"tags":["reference","video"],"source":"https://www.youtube.com/watch?v=EAD14QYIxzs","citekey":"IrisSmyth_FeelingLOSTYourCareer","dg-publish":true,"dg-show-inline-title":true,"permalink":"/References/@IrisSmyth_FeelingLOSTYourCareer/","dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-06T23:18:14.354+09:00","updated":"2024-11-06T23:46:22.015+09:00"}
+{"dg-publish":true,"permalink":"/References/@IrisSmyth_FeelingLOSTYourCareer/","tags":["reference","video"],"dgShowInlineTitle":true,"noteIcon":"1","created":"2024-11-06T23:18:14.354+09:00","updated":"2024-11-06T23:46:22.015+09:00"}
 ---
 
 ## Summary
