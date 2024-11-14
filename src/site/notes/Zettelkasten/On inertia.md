@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/On inertia/","noteIcon":"2","created":"2024-11-12T23:45:38.333+09:00","updated":"2024-11-14T16:00:21.769+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/On inertia/","noteIcon":"2","created":"2024-11-12T23:45:38.333+09:00","updated":"2024-11-14T16:09:41.395+09:00"}
 ---
 
 
