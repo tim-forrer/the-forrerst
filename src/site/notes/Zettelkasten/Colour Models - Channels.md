@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/Colour Models - Channels/","tags":["seedling","colour-model"],"noteIcon":"1","created":"2024-11-04T17:41:34.128+09:00","updated":"2024-11-04T20:07:00.021+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Colour Models - Channels/","tags":["colour-model"],"noteIcon":"2","created":"2024-11-04T17:41:34.128+09:00","updated":"2024-11-13T23:22:30.487+09:00"}
 ---
 
 A channel stores the information for one of the components of a colour model.
