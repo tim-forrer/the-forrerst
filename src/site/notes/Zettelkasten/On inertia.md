@@ -13,31 +13,14 @@ Eventually I took one - and it was entirely unremarkable and I've subsequently d
 
 I suppose the real lesson from today (although there were many useful things to think about) was that if I ever feel like a given day won't produce any photos, I just need to take one to get the ball rolling. After all - as the lecturer pointed out on multiple occasions - in the age of digital, taking a picture costs nothing.
 
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-    data-pswp-width="1669" 
-    data-pswp-height="2500" 
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" >
-  </a>
-  
-  <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg" 
-    data-pswp-width="1875" 
-    data-pswp-height="2500" 
-    data-cropped="true" 
-    target="_blank">
-    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt="" >
-    Cropped
-  </a>
 
-  
+<div class="grid">
+  <div class="grid-item"><a href="/img/user/images/On inertia-20241112235428274.webp" data-lightbox="models" data-title="Caption1"><img src="/img/user/images/On inertia-20241112235428274.webp"></a></div>
+  <div class="grid-item"><a href="/img/user/images/On inertia-20241112235440697.webp" data-lightbox="models" data-title="Caption2"><img src="/img/user/images/On inertia-20241112235440697.webp"></a></div>
+  <div class="grid-item"><a href="/img/user/images/On inertia-20241112235445528.webp" data-lightbox="models" data-title="Caption3"><img src="/img/user/images/On inertia-20241112235445528.webp"></a></div>
+  <div class="grid-item"><a href="/img/user/images/On inertia-20241112235448439.webp" data-lightbox="models" data-title="Caption4"><img src="/img/user/images/On inertia-20241112235448439.webp"></a></div>
+  <div class="grid-item"><a href="/img/user/images/On inertia-20241112235457279.webp" data-lightbox="models" data-title="Caption5"><img src="/img/user/images/On inertia-20241112235457279.webp"></a></div>
 </div>
-
-<a href="/img/user/Images/On%20inertia-20241112235428274.webp" class="glightbox" data-type="image"><img src="/img/user/Images/On%20inertia-20241112235428274.webp"></a>
-<a href="/img/user/Images/On%20inertia-20241112235440697.webp" class="glightbox">Image 2</a>
-<a href="/img/user/Images/On%20inertia-20241112235445528.webp" class="glightbox">Image 3</a>
-<a href="/img/user/Images/On%20inertia-20241112235448439.webp" class="glightbox">Image 4</a>
-<a href="/img/user/Images/On%20inertia-20241112235457279.webp" class="glightbox">Image 5</a>
 
 <div align="center">東京大学 (Univ. of Tokyo) // 本郷 (Hongo) // 2024-11-12</div>
 
