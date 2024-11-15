@@ -1,0 +1,24 @@
+{% if gallery %}
+{#
+This tells masonry that it should arrange '.grid-item's
+that are children of the same '.grid'
+
+Additionally it forces it to wait (using plugin imagesLoaded)
+until images are loaded before calculating the layout.
+#}
+<script>
+  var elem = document.querySelector('.grid');
+  var msnry = new Masonry( elem, {
+    // options
+    itemSelector: '.grid-item',
+    gutter: 10,
+  });
+  imagesLoaded(elem).on('progress', () => {
+    msnry.layout();
+  })
+</script>
+{#
+Run the lightbox script
+#}
+<script src="/scripts/user/lightbox-plus-jquery.js"></script>
+{% endif %}
