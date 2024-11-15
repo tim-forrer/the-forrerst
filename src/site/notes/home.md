@@ -15,7 +15,7 @@ In the meantime, feel free to take a browse.
 # Recent posts
 | Date       |                                                                                  |
 | ---------- | -------------------------------------------------------------------------------- |
-| 2024-11-14 | [[Zettelkasten/On inertia\|On inertia]]                                       |
+| 2024-11-15 | [[Zettelkasten/On inertia\|On inertia]]                                       |
 | 2024-11-14 | [[Zettelkasten/Two Sum (Programming Problem)\|Two Sum (Programming Problem)]] |
 | 2024-11-14 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                 |
 | 2024-11-13 | [[Zettelkasten/Colour Models\|Colour Models]]                                 |
