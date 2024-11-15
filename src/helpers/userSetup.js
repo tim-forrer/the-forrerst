@@ -15,7 +15,7 @@ function transformImages(content) {
   // Now add .grid-item divs to each image tag
   const imageTagRegex = /<img src=(".+?").*?>/g;
   const transformedImageTags = imageGroup[1].replace(imageTagRegex, (match, imgSrc) => {
-    return `<div class="grid-item"><a href=${imgSrc} data-lightbox="models" data-title="Caption1">${match}</a></div>`
+    return `<div class="grid-item"><a href=${imgSrc} class="glightbox">${match}</a></div>`
   })
 
   // Enclose everything inside .grid divisions
