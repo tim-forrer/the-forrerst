@@ -1,9 +1,9 @@
 ---
-{"dg-note-icon":1,"dg-publish":true,"permalink":"/Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-16T15:54:53.415+09:00","updated":"2024-11-16T16:15:29.356+09:00"}
+{"dg-note-icon":1,"dg-publish":true,"permalink":"/Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-16T15:54:53.415+09:00","updated":"2024-11-16T16:22:03.233+09:00"}
 ---
 
->[!info] This note is not yet complete
-> I'm still working on this note but it might still have useful information.
+>[!info] Under construction
+> I'm still working on this note but even incomplete it might have some useful information.
 > It might also have no useful information - feel free to make your own judgment.
 
 On some pages, I've added photos. If you click on a photo, rather than taking you directly via a link to the photo, it'll open the photo in an expanded modal (called a lightbox).
@@ -31,3 +31,15 @@ Images are arranged by a plugin called [Masonry](https://masonry.desandro.com/).
 
 To get the behaviour desired onto our images, we need to add these plugins to our websites. This is done through slots - if you followed my advice and read the docs you'll know what these are.
 
+The first slot we'll use is the one at `components/user/notes/head`, here you can add a `.njk` template (call it whatever you like but a helpful name like `masonry.njk` might be useful) that adds the Masonry plugin. If you want, it can just be a single line:
+```js
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+```
+We also need to use the [imagesLoaded](https://imagesloaded.desandro.com/) library to force Masonry to wait until *after* our images have loaded before it tries to arrange them. So add another line here as well.
+
+```js
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.js"></script>
+```
+
+# Modifying 11ty's build pipeline
