@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "SN Pro";
+  src: url("/fonts/SNPro-VariableRegular.woff2") format("woff2-variations");
+  font-weight: 200 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SN Pro";
+  src: url("/fonts/SNPro-VariableItalic.woff2") format("woff2-variations");
+  font-weight: 200 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Fira Code";
+  src: url("/fonts/FiraCode-VariableFont_wght.ttf");
+  font-weight: 300 700;
+}
+
+
+body, .callout {
+  font-family: "SN Pro" !important;
+}
+
+code {
+  font-family: "Fira Code" !important;
+  text-shadow: none !important;
+}
+
+/* h1, h2, h3, h4, h5, h6, p, callout-title-inner {
+  font-family: "SN Pro" !important;
+} */

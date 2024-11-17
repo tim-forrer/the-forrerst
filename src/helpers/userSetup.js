@@ -35,6 +35,9 @@ function userEleventySetup(eleventyConfig) {
 
     return content; // Return unmodified content if not HTML
   });
+
+  // Export fonts
+  eleventyConfig.addPassthroughCopy("src/site/fonts");
 }
 exports.userMarkdownSetup = userMarkdownSetup;
 exports.userEleventySetup = userEleventySetup;
