@@ -23,7 +23,9 @@ Images are arranged by a javascript library called [Masonry](https://masonry.des
 > 
 > But I couldn't do it.
 > 
-> Lightbox for some reason would not recalculate image container widths correctly and PhotoSwipe requires you to input image widths and heights which seemed a pain. Also I couldn't even get the Getting Started example to work so yeah, choose alternatives at your own risk.
+> Lightbox for some reason would not recalculate image container widths correctly and PhotoSwipe requires you to input image widths and heights which seemed a pain. Also I couldn't even get the Getting Started example to work.
+> 
+> So yeah, choose alternatives at your own risk.
 
 To get the behaviour desired onto our images, we need to add these plugins to our websites. This is done through slots - if you followed my advice and read the docs you'll know what these are.
 
