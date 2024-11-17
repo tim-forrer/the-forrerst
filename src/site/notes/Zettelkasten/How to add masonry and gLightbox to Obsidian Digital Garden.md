@@ -14,7 +14,7 @@ This behaviour is not native to Obsidian Digital Garden but thanks to the highly
 > - https://dg-docs.ole.dev/advanced/configure-build-pipeline/
 
 # Adding plugins
-Images are arranged by a plugin called [Masonry](https://masonry.desandro.com/). That images open into a lightbox is managed by [gLightbox](https://biati-digital.github.io/glightbox/).
+Images are arranged by a javascript library called [Masonry](https://masonry.desandro.com/). That images open into a lightbox thanks to another library called [gLightbox](https://biati-digital.github.io/glightbox/).
 
 >[!warning]- gLightbox alternatives
 > I found two other javascript libraries that perform similar roles to gLightbox, [lightbox2](https://lokeshdhakar.com/projects/lightbox2/) and [PhotoSwipe](https://photoswipe.com/).
