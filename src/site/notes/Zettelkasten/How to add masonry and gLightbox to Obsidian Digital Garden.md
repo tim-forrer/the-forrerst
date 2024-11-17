@@ -5,7 +5,7 @@
 On [[Zettelkasten/On inertia\|some pages]] in my digital garden, I've added photos. If you click on a photo, rather than taking you directly via a link to the photo, it'll open the photo in an expanded modal (called a lightbox).
 If there are a bunch of images, they are automatically arranged to fit together in a somewhat more space-efficient manner, and when opening an image you can click/swipe to view the others.
 
-This behaviour is not native to Obsidian Digital Garden but thanks to the highly hackable way that it is designed, it is quite straightforward it implement (if you already know how anyway...). If you don't though, fear not, for this guide will show you the way.
+This behaviour is not native to Obsidian Digital Garden but thanks to the highly hackable way that it is designed, it is quite straightforward to implement (if you already know how anyway...). If you don't though, fear not, for this guide will show you the way.
 
 >[!danger] Read the docs!
 > Speaking from experience, I would *highly* recommend reading the following pages.
