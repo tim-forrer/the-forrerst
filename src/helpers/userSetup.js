@@ -27,8 +27,6 @@ function transformImages(content) {
 }
 
 function userEleventySetup(eleventyConfig) {
-  // The eleventyConfig parameter stands for the the config instantiated in /.eleventy.js.
-  // Feel free to add any plugin you want here instead of /.eleventy.js
   // Custom transform to wrap consecutive <img> tags into a grid
   eleventyConfig.addTransform("imageGridTransform", function (content, outputPath) {
     if (outputPath && outputPath.endsWith(".html")) {
