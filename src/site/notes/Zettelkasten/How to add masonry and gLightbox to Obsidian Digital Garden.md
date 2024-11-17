@@ -2,11 +2,7 @@
 {"dg-note-icon":2,"dg-publish":true,"permalink":"/Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-16T15:54:53.415+09:00"}
 ---
 
->[!info] Under construction
-> I'm still working on this note but even incomplete it might have some useful information.
-> It might also have no useful information - feel free to make your own judgment.
-
-On some pages, I've added photos. If you click on a photo, rather than taking you directly via a link to the photo, it'll open the photo in an expanded modal (called a lightbox).
+On [[Zettelkasten/On inertia\|some pages]] in my digital garden, I've added photos. If you click on a photo, rather than taking you directly via a link to the photo, it'll open the photo in an expanded modal (called a lightbox).
 If there are a bunch of images, they are automatically arranged to fit together in a somewhat more space-efficient manner, and when opening an image you can click/swipe to view the others.
 
 This behaviour is not native to Obsidian Digital Garden but thanks to the highly hackable way that it is designed, it is quite straightforward it implement (if you already know how anyway...).
