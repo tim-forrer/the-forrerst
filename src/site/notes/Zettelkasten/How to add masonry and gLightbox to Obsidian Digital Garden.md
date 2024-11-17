@@ -31,7 +31,7 @@ To get the behaviour desired onto our images, we need to add these libraries to 
 
 ## Masonry
 ### Importing libraries
-The first slot we'll use is the one at `user/common/head`, here you can add a `.njk` template (call it whatever you like but a helpful name like `masonry.njk` might be useful) that adds the Masonry plugin. If you want, it can just be a single line:
+The first slot we'll use is the one at `user/common/head`, here you can add a `.njk` template (call it whatever you like but a helpful name like `masonry.njk` might be useful) that adds Masonry. If you want, it can just be a single line:
 ```html
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 ```
