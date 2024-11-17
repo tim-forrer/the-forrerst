@@ -27,7 +27,7 @@ Images are arranged by a javascript library called [Masonry](https://masonry.des
 > 
 > So yeah, choose alternatives at your own risk.
 
-To get the behaviour desired onto our images, we need to add these plugins to our websites. This is done through slots - if you followed my advice and read the docs you'll know what these are.
+To get the behaviour desired onto our images, we need to add these libraries to our websites. This is done through slots - if you followed my advice and read the docs you'll know what these are.
 
 ## Masonry
 ### Importing libraries
