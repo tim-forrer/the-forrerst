@@ -18,7 +18,7 @@ In the meantime, feel free to take a browse.
 | Date       |                                                                                                                                              |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2024-11-18 | [[Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden\|How to add masonry and gLightbox to Obsidian Digital Garden]] |
-| 2024-11-17 | [[Zettelkasten/About this website\|About this website]]                                                                                   |
+| 2024-11-18 | [[Zettelkasten/About this website\|About this website]]                                                                                   |
 | 2024-11-18 | [[Zettelkasten/On inertia\|On inertia]]                                                                                                   |
 | 2024-11-14 | [[Zettelkasten/Two Sum (Programming Problem)\|Two Sum (Programming Problem)]]                                                             |
 | 2024-11-14 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                                                                             |
@@ -33,12 +33,12 @@ In the meantime, feel free to take a browse.
 { .block-language-dataview}
 
 ## Read books
-| ("![cover\|100](" + cover +")")                                                                                                | Date      |                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------- |
-| ![cover\|100](http://books.google.com/books/content?id=p14yCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-9-23 | [[Books/Grit - Angela Duckworth\|Grit - Angela Duckworth]]                   |
-| ![cover\|100](http://books.google.com/books/content?id=QmVPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-9-22 | [[Books/How To Be Right - James O'Brien\|How To Be Right - James O'Brien]]   |
-| ![cover\|100](http://books.google.com/books/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-8-30 | [[Books/Breath - James Nestor\|Breath - James Nestor]]                       |
-| ![cover\|100](http://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-8-13 | [[Books/Yellowface - Rebecca F Kuang\|Yellowface - Rebecca F Kuang]]         |
-| ![cover\|100](http://books.google.com/books/content?id=jaOHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-8-12 | [[Books/This Is Going to Hurt - Adam Kay\|This Is Going to Hurt - Adam Kay]] |
+| ("![cover\|100](" + cover +")")                                                                                                |                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| ![cover\|100](http://books.google.com/books/content?id=p14yCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Grit - Angela Duckworth\|Grit]]                           |
+| ![cover\|100](http://books.google.com/books/content?id=QmVPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/How To Be Right - James O'Brien\|How To Be Right]]        |
+| ![cover\|100](http://books.google.com/books/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Breath - James Nestor\|Breath]]                           |
+| ![cover\|100](http://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Yellowface - Rebecca F Kuang\|Yellowface]]                |
+| ![cover\|100](http://books.google.com/books/content?id=jaOHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/This Is Going to Hurt - Adam Kay\|This Is Going to Hurt]] |
 
 { .block-language-dataview}
