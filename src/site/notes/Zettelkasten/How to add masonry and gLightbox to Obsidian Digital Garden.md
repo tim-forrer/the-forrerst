@@ -35,12 +35,17 @@ The first slot we'll use is the one at `user/common/head`, here you can add a `.
 ```html
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 ```
+
 We also need to use the [imagesLoaded](https://imagesloaded.desandro.com/) library to force Masonry to wait until *after* our images have loaded before it tries to arrange them. So add another line here as well.
 
 ```html
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.js"></script>
 ```
+
+>[! info]- Improving website loading speed
+> According to [this stackoverflow post](https://stackoverflow.com/questions/4851690/do-multiple-inline-js-scripts-slow-down-loading-time-of-a-page) loading the scripts in this way may not be optimal.
+> Check out the discussion there, particularly around using `async`, for faster page loading.
 
 ### Adding script
 The second slot we need is the one at `user/common/footer`, which places the contained `.njk` templates at the end of the file. Again, the name of the file is irrelevant, it just needs to end with `.njk`.
