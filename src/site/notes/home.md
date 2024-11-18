@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-show-backlinks":"false","dg-hide":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":"false","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00"}
+{"dg-publish":true,"dg-home":true,"dg-show-backlinks":"false","dg-hide":true,"cssClass":["cards","cards-cover","cards-cols-4"],"dg-content-classes":["cards","cards-cover","cards-cols-4"],"permalink":"/home/","hide":true,"contentClasses":"cards cards-cover cards-cols-4","tags":["gardenEntry"],"dgShowBacklinks":"false","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00"}
 ---
 
 # Hello :)
@@ -12,7 +12,9 @@ I don't have any intention for this website as of yet, I'm hoping that'll emerge
 
 In the meantime, feel free to take a browse.
 
-# Recent posts
+# Most Recent
+
+## Posts
 | Date       |                                                                                                                                              |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2024-11-18 | [[Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden\|How to add masonry and gLightbox to Obsidian Digital Garden]] |
@@ -23,9 +25,20 @@ In the meantime, feel free to take a browse.
 
 { .block-language-dataview}
 
-# Recently viewed videos
+## Viewed videos
 | Date       |                                                                                  |
 | ---------- | -------------------------------------------------------------------------------- |
 | 2024-11-06 | [[References/@IrisSmyth_FeelingLOSTYourCareer\|Feeling LOST in your career?]] |
+
+{ .block-language-dataview}
+
+## Read books
+| ("![cover\|100](" + cover +")")                                                                                                | Date      |                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------- |
+| ![cover\|100](http://books.google.com/books/content?id=p14yCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-9-23 | [[Books/Grit - Angela Duckworth\|Grit - Angela Duckworth]]                   |
+| ![cover\|100](http://books.google.com/books/content?id=QmVPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-9-22 | [[Books/How To Be Right - James O'Brien\|How To Be Right - James O'Brien]]   |
+| ![cover\|100](http://books.google.com/books/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-8-30 | [[Books/Breath - James Nestor\|Breath - James Nestor]]                       |
+| ![cover\|100](http://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-8-13 | [[Books/Yellowface - Rebecca F Kuang\|Yellowface - Rebecca F Kuang]]         |
+| ![cover\|100](http://books.google.com/books/content?id=jaOHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | 2024-8-12 | [[Books/This Is Going to Hurt - Adam Kay\|This Is Going to Hurt - Adam Kay]] |
 
 { .block-language-dataview}

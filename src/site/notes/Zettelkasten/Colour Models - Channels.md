@@ -1,5 +1,5 @@
 ---
-{"tags":["colour-model"],"dg-publish":true,"dg-note-icon":"2","permalink":"/Zettelkasten/Colour Models - Channels/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-04T17:41:34.128+09:00","updated":"2024-11-13T23:22:30.487+09:00"}
+{"tags":["colour-model"],"dg-publish":true,"dg-note-icon":"2","permalink":"/Zettelkasten/Colour Models - Channels/","dgPassFrontmatter":true,"noteIcon":"2","created":"2024-11-04T17:41:34.128+09:00"}
 ---
 
 A channel stores the information for one of the components of a colour model.
