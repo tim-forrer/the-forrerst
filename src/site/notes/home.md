@@ -36,11 +36,11 @@ In the meantime, feel free to take a browse.
 { .block-language-dataview}
 
 ## Recently Read Books
-| ("![cover\|100](" + cover +")")                                                                                                |                                                               | "Rating: " + rating |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------------------- |
-| ![cover\|100](http://books.google.com/books/content?id=p14yCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Grit - Angela Duckworth\|Grit]]                    | Rating: 3.5         |
-| ![cover\|100](http://books.google.com/books/content?id=QmVPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/How To Be Right - James O'Brien\|How To Be Right]] | Rating: 3.75        |
-| ![cover\|100](http://books.google.com/books/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Breath - James Nestor\|Breath]]                    | Rating: 2.5         |
-| ![cover\|100](http://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Yellowface - Rebecca F Kuang\|Yellowface]]         | Rating: 4           |
+| ("![cover\|100](" + cover +")")                                                                                                |                                                               | "Rating: " + rating | "Finished " + dateformat(finished, "yyyy-MM-dd") |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------------------- | ------------------------------------------------ |
+| ![cover\|100](http://books.google.com/books/content?id=p14yCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Grit - Angela Duckworth\|Grit]]                    | Rating: 3.5         | Finished 2024-09-23                              |
+| ![cover\|100](http://books.google.com/books/content?id=QmVPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/How To Be Right - James O'Brien\|How To Be Right]] | Rating: 3.75        | Finished 2024-09-22                              |
+| ![cover\|100](http://books.google.com/books/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Breath - James Nestor\|Breath]]                    | Rating: 2.5         | Finished 2024-08-30                              |
+| ![cover\|100](http://books.google.com/books/content?id=crZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) | [[Books/Yellowface - Rebecca F Kuang\|Yellowface]]         | Rating: 4           | Finished 2024-08-13                              |
 
 { .block-language-dataview}
