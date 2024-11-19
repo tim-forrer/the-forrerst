@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-show-backlinks":"false","dg-hide":true,"cssClass":["cards","cards-2-3"],"dg-content-classes":["cards","cards-cover","cards-cols-4"],"permalink":"/home/","hide":true,"contentClasses":"cards cards-cover cards-cols-4","tags":["gardenEntry"],"dgShowBacklinks":"false","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00"}
+{"dg-publish":true,"dg-home":true,"dg-show-backlinks":"false","dg-hide":true,"cssClass":["cards","cards-2-3"],"dg-content-classes":["cards","cards-2-3"],"permalink":"/home/","hide":true,"contentClasses":"cards cards-2-3","tags":["gardenEntry"],"dgShowBacklinks":"false","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-26T07:52:57.659+09:00"}
 ---
 
 # Hello :)
