@@ -2,7 +2,6 @@
 {"title":"Vision & Voice","creators":["[[David duChemin]]"],"cover":"https://www.peachpit.com/ShowCover.aspx?isbn=0321670094","status":"reading","owned":true,"started":"2024-11-19","finished":"","isbn":9780321670090,"rating":null,"dg-publish":true,"dg-note-icon":"book","permalink":"/Books/Vision & Voice - David duChemin/","dgPassFrontmatter":true,"noteIcon":"book","created":"2024-11-19T23:17:25.500+09:00"}
 ---
 
-
 ![cover|150](https://www.peachpit.com/ShowCover.aspx?isbn=0321670094)
 
 # Vision in Focus
@@ -47,4 +46,19 @@ What does that mood or emotion look like? What do I want people to look at - in 
 
 ## Process
 What digital tools are available to best align the image to my vision?
-Answering this question comes first from identifying 
+Answering this question comes first from identifying what the intention of the photography is - then we can make a better assessment as to the kind of edits that should be made to further emphasise this. <!--note: For me, this first requires remembering (or writing down) what my intention for a given image actually is, at the point of taking it.-->
+duChemin's next step is to fix the obvious flaws/changes in the image that might distract from the overall image editing like rotating/cropping.
+Next comes edits which apply to the image as a whole, which are broadly concerned with affecting the mood of an image.
+Edits which are more localised should be concerned with how the eye should be moved around the image.
+Output depends very much on the place that the image will be displayed. Sharpening (for example), differs based on where the image will be published.
+
+# Voice Training
+Some useful tips for editing images - but nothing here is a rule that cannot be broken.
+
+## Make your blacks black
+
+## Histograms
+Data is not spread evenly across a histogram - rather it is concentrated around the right because of the non-linear nature of the mapping from recorded numbers to brightnesses.
+The details are not important - the important thing is to remember to prefer to expose to the right of the histogram to get more detail.
+
+# The Means of Expression
