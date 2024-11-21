@@ -29,9 +29,8 @@ In the meantime, feel free to take a browse.
 { .block-language-dataview}
 
 ## Recently Viewed Videos
-| Date       |                                                                                  |
-| ---------- | -------------------------------------------------------------------------------- |
-| 2024-11-06 | [[References/@IrisSmyth_FeelingLOSTYourCareer\|Feeling LOST in your career?]] |
+| Date |  |
+| ---- |  |
 
 { .block-language-dataview}
 
