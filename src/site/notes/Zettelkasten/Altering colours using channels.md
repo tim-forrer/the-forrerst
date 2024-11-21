@@ -1,5 +1,5 @@
 ---
-{"tags":["colour-model","photography"],"dg-publish":true,"dg-note-icon":2,"permalink":"/Zettelkasten/Altering colours using channels/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-03T10:48:57.412+09:00"}
+{"tags":["colour-model","photography","guide"],"dg-publish":true,"dg-note-icon":2,"permalink":"/Zettelkasten/Altering colours using channels/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-03T10:48:57.412+09:00"}
 ---
 
 The aim of this article is to explain how to manipulate colours in a digital image to enhance colour harmonies.
@@ -9,8 +9,8 @@ Most of this note is self-contained, but you might want to look at these notes i
 
 | Note                                                                   |
 | ---------------------------------------------------------------------- |
-| [[Zettelkasten/Colour Models\|Colour Models]]                       |
 | [[Zettelkasten/Colour Models - Channels\|Colour Models - Channels]] |
+| [[Zettelkasten/Colour Models\|Colour Models]]                       |
 
 { .block-language-dataview}
 
@@ -91,7 +91,7 @@ Note that the maximum output of each channel (found by summing the columns) give
 Now that you've made it this far, I'll let you figure out how to manipulate the red into a shade of orange if you'd like all the reds to be a shade of orange.
 
 # Further resources
-This article was based on [this video](https://www.youtube.com/watch?v=X7GLa-2h4Po&t=505s) by [[Hajdukovic, Boris\|Boris Hajdukovic]] - specifically the chapter "How to get orange with the channel mixer".
+This article was based on [this video](https://www.youtube.com/watch?v=X7GLa-2h4Po&t=505s) by [[Boris Hajdukovic\|Boris Hajdukovic]] - specifically the chapter "How to get orange with the channel mixer".
 In that video you can see his explanation for what I've written above - and see some examples of how the different methods can be applied to different photos.
 
 [^2]: I'm not actually sure if these are the right descriptors, but basically I mean the "reddest" red that is describable with this colour model.
