@@ -17,14 +17,14 @@ In the meantime, feel free to take a browse.
 ## Recent Posts
 | Date       |                                                                                                                                              | tags                                                                |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2024-11-21 | [[Zettelkasten/Photography\|Photography]]                                                                                                 | <ul></ul>                                                           |
 | 2024-11-21 | [[Zettelkasten/Untitled - Masashi Wakui\|Untitled - Masashi Wakui]]                                                                       | <ul><li>#photography</li><li>#analysis</li></ul>                    |
-| 2024-11-21 | [[Zettelkasten/Telegraph Poles (Photography Idea)\|Telegraph Poles (Photography Idea)]]                                                   | <ul><li>#photography</li><li>#idea</li></ul>                        |
+| 2024-11-21 | [[Zettelkasten/Telegraph Poles\|Telegraph Poles]]                                                                                         | <ul><li>#photography</li><li>#idea</li></ul>                        |
 | 2024-11-16 | [[Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden\|How to add masonry and gLightbox to Obsidian Digital Garden]] | <ul><li>#guide</li></ul>                                            |
 | 2024-11-16 | [[Zettelkasten/About this website\|About this website]]                                                                                   | <ul><li>#guide</li></ul>                                            |
 | 2024-11-12 | [[Zettelkasten/On inertia\|On inertia]]                                                                                                   | <ul><li>#blog</li><li>#photography</li></ul>                        |
 | 2024-11-08 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                                                                             | <ul><li>#go</li></ul>                                               |
 | 2024-11-03 | [[Zettelkasten/Altering colours using channels\|Altering colours using channels]]                                                         | <ul><li>#colour-model</li><li>#photography</li><li>#guide</li></ul> |
-| 2024-11-02 | [[Zettelkasten/On cover letters\|On cover letters]]                                                                                       | <ul><li>#blog</li><li>#job-hunting</li></ul>                        |
 
 { .block-language-dataview}
 
