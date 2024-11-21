@@ -42,3 +42,10 @@ The image is filled with warmth, not just from the original colours that are pre
 Combined with the desaturated sky this makes for really allows me to lose myself in the image, rather than become nauseated by any subjects that pop out too much.
 
 The lack of strong contrast between shadows and highlights also contributes to the overall softness of the image.
+
+## Would what I have done differently?
+I think the only thing part of the image that doesn't add (but I wouldn't say it detracts either) are the people waiting for the bus stop, which might have helped solidify the person reading the housing signs as a stronger point of interest.
+
+By looking up the number of the real-estate agent, I was able to find out that this image was taken outside of Nishi-Kawaguchi station in Saitama.
+Looking at the street-view I think helps you to appreciate how skilled the overall composition of the image was.
+![Pasted image 20241121200540.webp|927](/img/user/Images/Pasted%20image%2020241121200540.webp)
