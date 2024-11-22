@@ -1,5 +1,5 @@
 ---
-{"cover":"https://i.ytimg.com/vi/R4KP4eUEL3g/maxresdefault.jpg","title":"The hardest thing about being a photographer.","channel":"[[James Popsys]]","published":"2024-11-21","source":"https://www.youtube.com/watch?v=R4KP4eUEL3g","watched":true,"reviewed":"2024-11-22","dg-publish":true,"tags":["youtube","videos"],"gallery":true,"permalink":"/Clippings/The hardest thing about being a photographer/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-21T22:53:04.227+09:00"}
+{"cover":"https://i.ytimg.com/vi/R4KP4eUEL3g/maxresdefault.jpg","title":"The hardest thing about being a photographer.","channel":"[[James Popsys]]","published":"2024-11-21","source":"https://www.youtube.com/watch?v=R4KP4eUEL3g","watched":true,"reviewed":"2024-11-22","dg-publish":true,"tags":["youtube","videos","photography"],"gallery":true,"permalink":"/Clippings/The hardest thing about being a photographer/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-21T22:53:04.227+09:00"}
 ---
 
 # Notes
