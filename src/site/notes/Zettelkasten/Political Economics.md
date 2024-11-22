@@ -4,7 +4,7 @@
 
 The notes contained here are for the second half of the Political Economics course. The first half was taught using powerpoint slides that can be found on [UTOL](https://utol.ecc.u-tokyo.ac.jp/login).
 
-Lecturer: Eric Weese - weese@iss.u-tokyo.ac.jp
+Lecturer: Eric Weese - weese\[at\]iss.u-tokyo.ac.jp
 Background material can be found in Chapter 1 of Political Economics - Persson & Tabellini
 
 # Plan
