@@ -1,5 +1,5 @@
 ---
-{"references":["https://www.youtube.com/watch?v=iUjLTT2RYFU"],"dg-publish":true,"gallery":true,"tags":["blog","photography"],"permalink":"/Zettelkasten/On feeling inadequate/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-29T20:56:41.063+09:00"}
+{"references":["https://www.youtube.com/watch?v=iUjLTT2RYFU"],"dg-publish":true,"gallery":true,"dg-pass-frontmatter":true,"tags":["blog","photography"],"permalink":"/Zettelkasten/On feeling inadequate/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-29T20:56:41.063+09:00"}
 ---
 
 >[!quote] Look to others for inspiration, not comparison.

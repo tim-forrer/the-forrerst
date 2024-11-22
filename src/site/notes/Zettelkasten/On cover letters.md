@@ -1,5 +1,5 @@
 ---
-{"tags":["blog","job-hunting"],"dg-publish":true,"permalink":"/Zettelkasten/On cover letters/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-02T16:33:31.556+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/On cover letters/","tags":["blog","job-hunting"],"noteIcon":"1","created":"2024-11-02T16:33:31.556+09:00"}
 ---
 
 Well here we are.

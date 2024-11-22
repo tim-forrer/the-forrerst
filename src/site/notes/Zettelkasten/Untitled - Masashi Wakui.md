@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":1,"tags":["photography","analysis"],"creators":["[[Masashi Wakui]]"],"dg-publish":true,"gallery":true,"permalink":"/Zettelkasten/Untitled - Masashi Wakui/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-21T19:24:46.135+09:00"}
+{"dg-note-icon":1,"tags":["photography","analysis"],"creators":["[[Masashi Wakui]]"],"dg-publish":true,"gallery":true,"dg-pass-frontmatter":true,"permalink":"/Zettelkasten/Untitled - Masashi Wakui/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-21T19:24:46.135+09:00"}
 ---
 
 This image was made by [Masashi Wakui](https://www.flickr.com/photos/megane_wakui/), in particular the original is found [here](https://www.flickr.com/photos/megane_wakui/51053685833/in/dateposted/).

@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":1,"dg-publish":true,"tags":["guide"],"permalink":"/Zettelkasten/About this website/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-16T15:24:09.104+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/About this website/","tags":["guide"],"noteIcon":1,"created":"2024-11-16T15:24:09.104+09:00"}
 ---
 
 # How it's built

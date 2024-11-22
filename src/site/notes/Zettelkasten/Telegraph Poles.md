@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":1,"dg-publish":true,"tags":["photography","idea"],"permalink":"/Zettelkasten/Telegraph Poles/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-21T16:04:46.457+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Telegraph Poles/","tags":["photography","idea"],"noteIcon":1,"created":"2024-11-21T16:04:46.457+09:00"}
 ---
 
 

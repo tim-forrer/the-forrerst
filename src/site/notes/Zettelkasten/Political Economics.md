@@ -1,5 +1,5 @@
 ---
-{"tags":["lecture-notes"],"aliases":["political economics"],"dg-publish":true,"permalink":"/Zettelkasten/Political Economics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-26T07:52:57.382+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Political Economics/","tags":["lecture-notes"],"noteIcon":"1","created":"2024-10-26T07:52:57.382+09:00"}
 ---
 
 The notes contained here are for the second half of the Political Economics course. The first half was taught using powerpoint slides that can be found on [UTOL](https://utol.ecc.u-tokyo.ac.jp/login).

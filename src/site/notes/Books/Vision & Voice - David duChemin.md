@@ -1,5 +1,5 @@
 ---
-{"title":"Vision & Voice","creators":["[[David duChemin]]"],"cover":"https://www.peachpit.com/ShowCover.aspx?isbn=0321670094","status":"reading","owned":true,"started":"2024-11-19","finished":"","isbn":9780321670090,"rating":null,"dg-publish":true,"dg-note-icon":4,"permalink":"/Books/Vision & Voice - David duChemin/","dgPassFrontmatter":true,"noteIcon":4,"created":"2024-11-19T23:17:25.500+09:00"}
+{"dg-publish":true,"permalink":"/Books/Vision & Voice - David duChemin/","title":"Vision & Voice","noteIcon":4,"created":"2024-11-19T23:17:25.500+09:00"}
 ---
 
 ![cover|150](https://www.peachpit.com/ShowCover.aspx?isbn=0321670094)

@@ -1,5 +1,5 @@
 ---
-{"tags":["go"],"dg-publish":true,"dg-note-icon":"1","permalink":"/Zettelkasten/Pointers (Go)/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-08T00:13:14.031+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Pointers (Go)/","tags":["go"],"noteIcon":"1","created":"2024-11-08T00:13:14.031+09:00"}
 ---
 
 

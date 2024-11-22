@@ -1,5 +1,5 @@
 ---
-{"tags":["blog","photography"],"dg-publish":true,"dg-note-icon":2,"gallery":true,"permalink":"/Zettelkasten/On inertia/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-12T23:45:38.333+09:00"}
+{"tags":["blog","photography"],"dg-publish":true,"dg-note-icon":2,"gallery":true,"dg-pass-frontmatter":true,"permalink":"/Zettelkasten/On inertia/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-12T23:45:38.333+09:00"}
 ---
 
 

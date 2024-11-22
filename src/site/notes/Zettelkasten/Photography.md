@@ -1,5 +1,5 @@
 ---
-{"dg-note-icon":1,"dg-publish":true,"gallery":true,"permalink":"/Zettelkasten/Photography/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-21T20:12:29.333+09:00"}
+{"dg-note-icon":1,"dg-publish":true,"gallery":true,"dg-pass-frontmatter":true,"permalink":"/Zettelkasten/Photography/","dgPassFrontmatter":true,"noteIcon":1,"created":"2024-11-21T20:12:29.333+09:00"}
 ---
 
 
