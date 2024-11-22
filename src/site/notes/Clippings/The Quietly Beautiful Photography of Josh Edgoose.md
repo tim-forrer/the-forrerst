@@ -1,5 +1,5 @@
 ---
-{"cover":"https://i.ytimg.com/vi/6O0ezEh-Zxk/maxresdefault.jpg","title":"The Quietly Beautiful Photography of  Josh Edgoose","channel":"[[The Photographic Eye]]","published":"2024-04-30","source":"https://www.youtube.com/watch?v=6O0ezEh-Zxk","watched":true,"reviewed":"2024-11-21","dg-publish":true,"tags":["youtube","videos"],"permalink":"/Clippings/The Quietly Beautiful Photography of Josh Edgoose/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-11-21T13:28:31.208+09:00"}
+{"cover":"https://i.ytimg.com/vi/6O0ezEh-Zxk/maxresdefault.jpg","title":"The Quietly Beautiful Photography of  Josh Edgoose","channel":"[[The Photographic Eye]]","published":"2024-04-30","source":"https://www.youtube.com/watch?v=6O0ezEh-Zxk","watched":true,"reviewed":"2024-11-21","dg-publish":true,"tags":["youtube","videos"],"dg-note-icon":5,"permalink":"/Clippings/The Quietly Beautiful Photography of Josh Edgoose/","dgPassFrontmatter":true,"noteIcon":5,"created":"2024-11-21T13:28:31.208+09:00"}
 ---
 
 # Notes
