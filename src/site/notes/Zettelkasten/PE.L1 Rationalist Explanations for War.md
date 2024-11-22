@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-note-icon":2,"parent":["[[Political Economics]]","[[Rationalist Explanations for War - Fearon.pdf]]"],"permalink":"/Zettelkasten/PE.L1 Rationalist Explanations for War/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-22T13:37:13.849+09:00"}
+{"dg-publish":true,"dg-note-icon":2,"parent":["[[Zettelkasten/Political Economics\|Political Economics]]","[[Rationalist Explanations for War - Fearon.pdf]]"],"permalink":"/Zettelkasten/PE.L1 Rationalist Explanations for War/","dgPassFrontmatter":true,"noteIcon":2,"created":"2024-11-22T13:37:13.849+09:00"}
 ---
 
+Notes for [[Political Economics]].
 # Summary
 We can build models that show that going to war is irrational - so why do they happen?
 By extending our models we see conditions under which war becomes rational.
