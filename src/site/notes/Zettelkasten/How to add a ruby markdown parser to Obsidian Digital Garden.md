@@ -12,7 +12,7 @@ It's especially useful for languages like Japanese or Chinese where it's not obv
 # What's the markdown syntax for ruby?
 There isn't an official one, and Obsidian doesn't recognise any out of the box, but there is a plugin [Markdown Furigana](https://github.com/steven-kraft/obsidian-markdown-furigana) that adds it to Obsidian.
 
-The syntax it uses is based off of [markdown-it-ruby](https://github.com/lostandfound/markdown-it-ruby) syntax, which looks {BASE TEXT|TOP TEXT}.
+The syntax it uses is based off of [markdown-it-ruby](https://github.com/lostandfound/markdown-it-ruby) syntax. Apologies for not including it explicitly here, but I can't work out how to escape it so that it's not parsed by the plugin...
 
 # So how's it done?
 Luckily for us, Obsidian Digital Garden uses markdown-it to parse markdown, so it's just a case of installing the plugin in our website repository:
