@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zettelkasten/PE.L1 Rationalist Explanations for War/","noteIcon":2,"created":"2024-11-22T13:37:13.849+09:00"}
+{"dg-publish":true,"permalink":"/Zettelkasten/PE.L1 Rationalist Explanations for War/","tags":["lecture-notes"],"noteIcon":2,"created":"2024-11-22T13:37:13.849+09:00"}
 ---
 
 Notes for [[Zettelkasten/Political Economics\|Political Economics]].
