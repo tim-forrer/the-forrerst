@@ -15,27 +15,27 @@ In the meantime, feel free to take a browse.
 # What I've been up to/thinking
 
 ## Recent Posts
-| Date       |                                                                                                                                              | tags                                             |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 2024-11-22 | [[Zettelkasten/PE.L1 Rationalist Explanations for War\|PE.L1 Rationalist Explanations for War]]                                           | <ul><li>#lecture-notes</li></ul>                 |
-| 2024-11-21 | [[Zettelkasten/Photography\|Photography]]                                                                                                 | <ul></ul>                                        |
-| 2024-11-21 | [[Zettelkasten/Untitled - Masashi Wakui\|Untitled - Masashi Wakui]]                                                                       | <ul><li>#photography</li><li>#analysis</li></ul> |
-| 2024-11-21 | [[Zettelkasten/Telegraph Poles\|Telegraph Poles]]                                                                                         | <ul><li>#photography</li><li>#idea</li></ul>     |
-| 2024-11-16 | [[Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden\|How to add masonry and gLightbox to Obsidian Digital Garden]] | <ul><li>#guide</li></ul>                         |
-| 2024-11-16 | [[Zettelkasten/About this website\|About this website]]                                                                                   | <ul><li>#guide</li></ul>                         |
-| 2024-11-12 | [[Zettelkasten/On inertia\|On inertia]]                                                                                                   | <ul><li>#blog</li><li>#photography</li></ul>     |
-| 2024-11-08 | [[Zettelkasten/Pointers (Go)\|Pointers (Go)]]                                                                                             | <ul><li>#go</li></ul>                            |
+| Date       |                                                                                                                                                | tags                                             |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 2024-11-25 | [[Zettelkasten/How to add a ruby markdown parser to Obsidian Digital Garden\|How to add a ruby markdown parser to Obsidian Digital Garden]] | <ul><li>#guide</li><li>#digital-garden</li></ul> |
+| 2024-11-22 | [[Zettelkasten/PE.L1 Rationalist Explanations for War\|PE.L1 Rationalist Explanations for War]]                                             | <ul><li>#lecture-notes</li></ul>                 |
+| 2024-11-21 | [[Zettelkasten/Photography\|Photography]]                                                                                                   | <ul></ul>                                        |
+| 2024-11-21 | [[Zettelkasten/Untitled - Masashi Wakui\|Untitled - Masashi Wakui]]                                                                         | <ul><li>#photography</li><li>#analysis</li></ul> |
+| 2024-11-21 | [[Zettelkasten/Telegraph Poles\|Telegraph Poles]]                                                                                           | <ul><li>#photography</li><li>#idea</li></ul>     |
+| 2024-11-16 | [[Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden\|How to add masonry and gLightbox to Obsidian Digital Garden]]   | <ul><li>#digital-garden</li><li>#guide</li></ul> |
+| 2024-11-16 | [[Zettelkasten/About this website\|About this website]]                                                                                     | <ul><li>#guide</li></ul>                         |
+| 2024-11-12 | [[Zettelkasten/On inertia\|On inertia]]                                                                                                     | <ul><li>#blog</li><li>#photography</li></ul>     |
 
 { .block-language-dataview}
 
 ## Recently Viewed Videos
 | ("![cover\|100](" + cover +")")                                     |                                                                                                                                                                                                                         | Source                                                                                                   |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| ![cover\|100](https://i.ytimg.com/vi/iyVZlaEqU24/maxresdefault.jpg) | [[Clippings/Lesson 6 Japanese Adjectives - the real secret that makes them easy. What schools never teach\|Lesson 6 Japanese Adjectives - the real secret that makes them easy. What schools never teach]]           | [[http://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\|Source]]                      |
 | ![cover\|100](https://i.ytimg.com/vi/lU5rmrAORDY/maxresdefault.jpg) | [[Clippings/Lesson 4 Japanese past, present, and future tense. How Japanese verb tenses really work\|Lesson 4 Japanese past, present, and future tense. How Japanese verb tenses really work]]                       | [[http://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\|Source]]                      |
 | ![cover\|100](https://i.ytimg.com/vi/U9_T4eObNXg/maxresdefault.jpg) | [[Clippings/Lesson 3 WA-particle secrets schools don't ever teach. How WA can make or break your Japanese\|Lesson 3 WA-particle secrets schools don't ever teach. How WA can make or break your Japanese]]           | [[https://www.youtube.com/watch?v=OiKgudW9xB8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=57\|Source]] |
 | ![cover\|100](https://i.ytimg.com/vi/P3n8n0u3LHA/maxresdefault.jpg) | [[Clippings/Lesson 2 Core Secrets. Japanese made easy - unlocking the code. Learn Japanese from scratch\|Lesson 2 Core Secrets. Japanese made easy - unlocking the code. Learn Japanese from scratch]]               | [[https://www.youtube.com/watch?v=OiKgudW9xB8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=57\|Source]] |
 | ![cover\|100](https://i.ytimg.com/vi/pSvH9vH60Ig/maxresdefault.jpg) | [[Clippings/Lesson 1 Japanese made easy What schools never teach. The core Japanese sentence -organic Japanese\|Lesson 1 Japanese made easy What schools never teach. The core Japanese sentence -organic Japanese]] | [[https://www.youtube.com/watch?v=OiKgudW9xB8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=57\|Source]] |
-| ![cover\|100](https://i.ytimg.com/vi/OiKgudW9xB8/maxresdefault.jpg) | [[Clippings/Secrets of the で particle. Why do we say みんなで行く and 世界で一番  Lesson 55\|Secrets of the で particle. Why do we say みんなで行く and 世界で一番  Lesson 55]]                                                             | [[https://www.youtube.com/watch?v=OiKgudW9xB8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=57\|Source]] |
 
 { .block-language-dataview}
 
