@@ -7,6 +7,7 @@ What would be the first page of a physical photography notebook if I had one.
 
 | Date       | Title                                                                                                       | tags                                                         |
 | ---------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 2024-11-27 | [[Zettelkasten/On mindset\|On mindset]]                                                                  | <ul><li>#blog</li></ul>                                      |
 | 2024-11-21 | [[Clippings/The hardest thing about being a photographer\|The hardest thing about being a photographer]] | <ul><li>#youtube</li><li>#videos</li></ul>                   |
 | 2024-11-21 | [[Zettelkasten/Untitled - Masashi Wakui\|Untitled - Masashi Wakui]]                                      | <ul><li>#analysis</li></ul>                                  |
 | 2024-11-21 | [[Zettelkasten/Telegraph Poles\|Telegraph Poles]]                                                        | <ul><li>#idea</li></ul>                                      |
