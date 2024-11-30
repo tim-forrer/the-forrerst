@@ -35,7 +35,6 @@ In the meantime, feel free to take a browse.
 | ![cover\|100](https://i.ytimg.com/vi/uqlQYrE2oFM/maxresdefault.jpg) | [[Clippings/Lesson 8 Location, purpose and transformation - keys to the ni particle and he particle\|Lesson 8 Location, purpose and transformation - keys to the ni particle and he particle]]             | [[http://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\|Source]] |
 | ![cover\|100](https://i.ytimg.com/vi/dwcTI9qvO-U/maxresdefault.jpg) | [[Clippings/Lesson 8b Japanese particles explained. How they REALLY work\|Lesson 8b Japanese particles explained. How they REALLY work]]                                                                   | [[http://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\|Source]] |
 | ![cover\|100](https://i.ytimg.com/vi/iyVZlaEqU24/maxresdefault.jpg) | [[Clippings/Lesson 6 Japanese Adjectives - the real secret that makes them easy. What schools never teach\|Lesson 6 Japanese Adjectives - the real secret that makes them easy. What schools never teach]] | [[http://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\|Source]] |
-| ![cover\|100](https://i.ytimg.com/vi/lU5rmrAORDY/maxresdefault.jpg) | [[Clippings/Lesson 4 Japanese past, present, and future tense. How Japanese verb tenses really work\|Lesson 4 Japanese past, present, and future tense. How Japanese verb tenses really work]]             | [[http://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj\|Source]] |
 
 { .block-language-dataview}
 
