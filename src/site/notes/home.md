@@ -17,6 +17,7 @@ In the meantime, feel free to take a browse.
 ## Recent Posts
 | Date       |                                                                                                                                                | tags                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 2024-12-11 | [[Zettelkasten/Overseas Student Loan Repayments\|Overseas Student Loan Repayments]]                                                         | <ul><li>#information</li></ul>                   |
 | 2024-11-27 | [[Zettelkasten/On mindset\|On mindset]]                                                                                                     | <ul><li>#blog</li><li>#photography</li></ul>     |
 | 2024-11-25 | [[Zettelkasten/How to add a ruby markdown parser to Obsidian Digital Garden\|How to add a ruby markdown parser to Obsidian Digital Garden]] | <ul><li>#guide</li><li>#digital-garden</li></ul> |
 | 2024-11-22 | [[Zettelkasten/PE.L1 Rationalist Explanations for War\|PE.L1 Rationalist Explanations for War]]                                             | <ul><li>#lecture-notes</li></ul>                 |
@@ -24,7 +25,6 @@ In the meantime, feel free to take a browse.
 | 2024-11-21 | [[Zettelkasten/Untitled - Masashi Wakui\|Untitled - Masashi Wakui]]                                                                         | <ul><li>#photography</li><li>#analysis</li></ul> |
 | 2024-11-21 | [[Zettelkasten/Telegraph Poles\|Telegraph Poles]]                                                                                           | <ul><li>#photography</li><li>#idea</li></ul>     |
 | 2024-11-16 | [[Zettelkasten/How to add masonry and gLightbox to Obsidian Digital Garden\|How to add masonry and gLightbox to Obsidian Digital Garden]]   | <ul><li>#digital-garden</li><li>#guide</li></ul> |
-| 2024-11-16 | [[Zettelkasten/About this website\|About this website]]                                                                                     | <ul><li>#guide</li></ul>                         |
 
 { .block-language-dataview}
 
