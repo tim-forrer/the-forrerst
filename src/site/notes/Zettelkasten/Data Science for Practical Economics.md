@@ -6,6 +6,7 @@
 This page is the "first page" as it were, of my notes from the Data Science for Practical Economics course.
 
 [[Zettelkasten/DSPE - L1 - Point Estimation\|DSPE - L1 - Point Estimation]]
+[[Zettelkasten/DSPE - L2 - Likelihood Paradigm\|DSPE - L2 - Likelihood Paradigm]]
 
 # Notation
 Throughout these notes there will be some common notation used.

@@ -15,16 +15,16 @@ In the meantime, feel free to take a browse.
 # What I've been up to/thinking
 
 ## Recent Posts
-| Date       |                                                                                                                                                | tags                                                        |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 2024-12-21 | [[Zettelkasten/Plim\|Plim]]                                                                                                                 | <ul><li>#statistics</li></ul>                               |
-| 2024-12-21 | [[Zettelkasten/Lagrange Multipliers\|Lagrange Multipliers]]                                                                                 | <ul><li>#calculus</li><li>#optimisation</li></ul>           |
-| 2024-12-20 | [[Zettelkasten/DSPE - L1 - Point Estimation\|DSPE - L1 - Point Estimation]]                                                                 | <ul><li>#statistics</li><li>#forecasting</li></ul>          |
-| 2024-12-20 | [[Zettelkasten/Data Science for Practical Economics\|Data Science for Practical Economics]]                                                 | <ul><li>#machine-learning</li><li>#AI</li><li>#ML</li></ul> |
-| 2024-12-11 | [[Zettelkasten/Overseas Student Loan Repayments\|Overseas Student Loan Repayments]]                                                         | <ul><li>#information</li></ul>                              |
-| 2024-11-27 | [[Zettelkasten/On mindset\|On mindset]]                                                                                                     | <ul><li>#blog</li><li>#photography</li></ul>                |
-| 2024-11-25 | [[Zettelkasten/How to add a ruby markdown parser to Obsidian Digital Garden\|How to add a ruby markdown parser to Obsidian Digital Garden]] | <ul><li>#guide</li><li>#digital-garden</li></ul>            |
-| 2024-11-22 | [[Zettelkasten/PE.L1 Rationalist Explanations for War\|PE.L1 Rationalist Explanations for War]]                                             | <ul><li>#lecture-notes</li></ul>                            |
+| Date       |                                                                                                                              | tags                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2024-12-21 | [[Zettelkasten/Why the PDF of a uniform distribution is a constant\|Why the PDF of a uniform distribution is a constant]] | <ul><li>#statistics</li></ul>                               |
+| 2024-12-21 | [[Zettelkasten/DSPE - L2 - Likelihood Paradigm\|DSPE - L2 - Likelihood Paradigm]]                                         | <ul><li>#statistics</li></ul>                               |
+| 2024-12-21 | [[Zettelkasten/Plim\|Plim]]                                                                                               | <ul><li>#statistics</li></ul>                               |
+| 2024-12-21 | [[Zettelkasten/Lagrange Multipliers\|Lagrange Multipliers]]                                                               | <ul><li>#calculus</li><li>#optimisation</li></ul>           |
+| 2024-12-20 | [[Zettelkasten/DSPE - L1 - Point Estimation\|DSPE - L1 - Point Estimation]]                                               | <ul><li>#statistics</li><li>#forecasting</li></ul>          |
+| 2024-12-20 | [[Zettelkasten/Data Science for Practical Economics\|Data Science for Practical Economics]]                               | <ul><li>#machine-learning</li><li>#AI</li><li>#ML</li></ul> |
+| 2024-12-11 | [[Zettelkasten/Overseas Student Loan Repayments\|Overseas Student Loan Repayments]]                                       | <ul><li>#information</li></ul>                              |
+| 2024-11-27 | [[Zettelkasten/On mindset\|On mindset]]                                                                                   | <ul><li>#blog</li><li>#photography</li></ul>                |
 
 { .block-language-dataview}
 
