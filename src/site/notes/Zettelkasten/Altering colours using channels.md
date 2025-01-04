@@ -9,8 +9,8 @@ Most of this note is self-contained, but you might want to look at these notes i
 
 | Note                                                                   |
 | ---------------------------------------------------------------------- |
-| [[Zettelkasten/Colour Models\|Colour Models]]                       |
 | [[Zettelkasten/Colour Models - Channels\|Colour Models - Channels]] |
+| [[Zettelkasten/Colour Models\|Colour Models]]                       |
 
 { .block-language-dataview}
 

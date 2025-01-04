@@ -3,10 +3,12 @@
 ---
 
 
-This page is the "first page" as it were, of my notes from the Data Science for Practical Economics course.
+This page is the first page of my notes from the Data Science for Practical Economics course.
 
 [[Zettelkasten/DSPE - L1 - Point Estimation\|DSPE - L1 - Point Estimation]]
 [[Zettelkasten/DSPE - L2 - Likelihood Paradigm\|DSPE - L2 - Likelihood Paradigm]]
+[[Zettelkasten/DSPE - L3 - Maximum Likelihood\|DSPE - L3 - Maximum Likelihood]]
+[[Zettelkasten/DSPE - L4 - Univariate Linear Prediction Models\|DSPE - L4 - Univariate Linear Prediction Models]]
 
 # Notation
 Throughout these notes there will be some common notation used.

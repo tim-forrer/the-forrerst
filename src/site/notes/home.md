@@ -17,14 +17,14 @@ In the meantime, feel free to take a browse.
 ## Recent Posts
 | Date       |                                                                                                                              | tags                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 2024-12-27 | [[Zettelkasten/DSPE - L3 - Maximum Likelihood\|DSPE - L3 - Maximum Likelihood]]                                           | <ul></ul>                                                   |
+| 2024-12-26 | [[Zettelkasten/DSPE - L4 - Univariate Linear Prediction Models\|DSPE - L4 - Univariate Linear Prediction Models]]         | <ul></ul>                                                   |
 | 2024-12-21 | [[Zettelkasten/Why the PDF of a uniform distribution is a constant\|Why the PDF of a uniform distribution is a constant]] | <ul><li>#statistics</li></ul>                               |
 | 2024-12-21 | [[Zettelkasten/DSPE - L2 - Likelihood Paradigm\|DSPE - L2 - Likelihood Paradigm]]                                         | <ul><li>#statistics</li></ul>                               |
 | 2024-12-21 | [[Zettelkasten/Plim\|Plim]]                                                                                               | <ul><li>#statistics</li></ul>                               |
 | 2024-12-21 | [[Zettelkasten/Lagrange Multipliers\|Lagrange Multipliers]]                                                               | <ul><li>#calculus</li><li>#optimisation</li></ul>           |
 | 2024-12-20 | [[Zettelkasten/DSPE - L1 - Point Estimation\|DSPE - L1 - Point Estimation]]                                               | <ul><li>#statistics</li><li>#forecasting</li></ul>          |
 | 2024-12-20 | [[Zettelkasten/Data Science for Practical Economics\|Data Science for Practical Economics]]                               | <ul><li>#machine-learning</li><li>#AI</li><li>#ML</li></ul> |
-| 2024-12-11 | [[Zettelkasten/Overseas Student Loan Repayments\|Overseas Student Loan Repayments]]                                       | <ul><li>#information</li></ul>                              |
-| 2024-11-27 | [[Zettelkasten/On mindset\|On mindset]]                                                                                   | <ul><li>#blog</li><li>#photography</li></ul>                |
 
 { .block-language-dataview}
 

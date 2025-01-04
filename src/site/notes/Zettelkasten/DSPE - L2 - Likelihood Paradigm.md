@@ -16,7 +16,7 @@ $$
 
 Note that the Law of Likelihood only talks about how an observation supports *one hypothesis over another*, not of any hypothesis in isolation.
 
->[!question]- A counter-example to the Law of Likelihood?
+>[!question] A counter-example to the Law of Likelihood?
 >Suppose I have a deck of 52 cards, which I shuffle and then turn over the top card. It's an ace of spades.
 >Suppose also that I have two hypotheses:
 >- $H_{1}$: All 52 cards are aces of spades.
@@ -24,3 +24,17 @@ Note that the Law of Likelihood only talks about how an observation supports *on
 >
 >The observation seems like quite strong evidence (likelihood ratio of 52) supporting $H_{1}$, but this can feel unintuitive.
 >Basically, the Law of Likelihood as given here completely ignores prior beliefs. Intuitions are basically built on them, so it's natural that this divergence should occur.
+
+# The Likelihood Function
+Suppose there are a collection of distributions, parametrised by $\theta \in \Theta$, for example
+
+$$
+f(x; \theta) = \frac{\theta^{k}\exp(-\theta)}{k!}
+$$
+
+is the PDF for a Poisson distribution, and is parametrised by the average.
+
+If $x$ is fixed, then we can say that it's actually a function of $\theta$.
+Call this the likelihood function, $L(\theta)$.
+
+If $L(\theta_{1}) > L(\theta_{2})$ then the fixed observation $x$ is greater evidence supporting $H_{1}$ over $H_{2}$.
