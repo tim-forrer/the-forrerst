@@ -11,6 +11,6 @@ Background material can be found in Chapter 1 of Political Economics - Persson &
 [[Zettelkasten/PE.L1 Rationalist Explanations for War\|PE.L1 Rationalist Explanations for War]]
 [[Zettelkasten/PE.L2 War is a commitment problem - Powell\|PE.L2 War is a commitment problem - Powell]]
 [[Zettelkasten/PE.L3 Review of Median Voter Theorem\|PE.L3 Review of Median Voter Theorem]]
-[[PE.L4 Probabilistic Voting (P+T Ch 3/4)\|PE.L4 Probabilistic Voting (P+T Ch 3/4)]]
-[[PE.L5 Capital Levy Problem (P+T Ch 12.1, 12.2 (not 12.2.4))\|PE.L5 Capital Levy Problem (P+T Ch 12.1, 12.2 (not 12.2.4))]]
+[[Zettelkasten/PE.L4 Probabilistic Voting (P+T Ch 3 - 4)\|PE.L4 Probabilistic Voting (P+T Ch 3 - 4)]]
+[[Zettelkasten/PE.L5 Capital Levy Problem (P+T Ch 12.1, 12.2 (not 12.2.4))\|PE.L5 Capital Levy Problem (P+T Ch 12.1, 12.2 (not 12.2.4))]]
 [[PE.L6 Monetary Policy (P+T Ch 15.1-15.3)\|PE.L6 Monetary Policy (P+T Ch 15.1-15.3)]]
